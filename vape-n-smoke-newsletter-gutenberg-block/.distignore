@@ -1,0 +1,7 @@
+.distignore
+.git
+.github
+.gitignore
+package.json
+package-lock.json
+node_modules/
