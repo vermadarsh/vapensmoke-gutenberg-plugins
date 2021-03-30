@@ -1,0 +1,15 @@
+{
+  "name": "vape-n-smoke-contact-us-gutenberg-block",
+  "version": "1.0.0",
+  "description": "Contact us page gutenberg block.",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "author": "Adarsh Verma",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "9.0.0"
+  }
+}

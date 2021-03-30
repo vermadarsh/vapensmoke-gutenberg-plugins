@@ -1,0 +1,17 @@
+.contact_us_main {
+	padding: 50px 0;
+}
+
+.contact_us_main .contact-us-form {
+	padding: 30px;
+	background-color: #fff;
+	box-shadow: 4px 10px 30px -2px rgba(0, 0, 0, 0.17);
+}
+
+.contact_us_main .contact-us-form .form-control {
+	height: 40px;
+}
+
+.contact_us_main .contact-us-form textarea.form-control {
+	height: auto;
+}
