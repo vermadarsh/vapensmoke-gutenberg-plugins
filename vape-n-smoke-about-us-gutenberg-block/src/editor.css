@@ -1,0 +1,39 @@
+.mission-area-content .pr-md-0 {
+	width: 49%;
+	float: left;
+}
+
+.mission-area-content .mission-area-text {
+	width: 49%;
+	margin-left: 5px;
+	float: left;
+	padding-top: 0;
+	margin-top: 0%;
+}
+
+.mission-area-content p {
+	padding-top: 0;
+}
+
+.btn {
+	background-color: #5d1616;
+	color: #fff;
+	padding: 8px 30px;
+	text-transform: uppercase;
+	border: 2px solid rgba(255, 255, 255, 0);
+	transition: 0.4s cubic-bezier(0.46, 0.03, 0.52, 0.96);
+	border-radius: 5px;
+	font-weight: 500;
+	font-size: 1.5rem;
+}
+
+.btn:hover {
+	background-color: #fff;
+	color: #5d1616;
+	text-transform: uppercase;
+	box-shadow: 4px 9px 18px 0 rgba(43, 43, 43, 0.26);
+}
+
+.vsau-image-block img {
+	margin-top: 10px;
+}
